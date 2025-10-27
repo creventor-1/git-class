@@ -1,0 +1,7 @@
+body {
+    display: flex;
+    place-items: center;
+    font-family: serif;
+    font-size: 12px;
+    color: pink;
+}
